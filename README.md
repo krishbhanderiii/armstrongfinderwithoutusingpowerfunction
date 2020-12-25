@@ -1,2 +1,2 @@
 # armstrongfinderwithoutusingpowerfunction
-here I drop the code for Armstrong  finder using c without using the power function
+here I drop the code for Armstrong  finder without using the power function using c
